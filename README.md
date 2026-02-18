@@ -1,3 +1,3 @@
-An app I created to test if my keyboard is fully functional.
+A keyboard app with visual feedback to test and validate key input functionality
 
 Try it here -> https://keyboard-test.davidvvasilev.workers.dev/
